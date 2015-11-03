@@ -1,2 +1,2 @@
-# flmnh-birds
-Issue tracking for FLMNH Bird data in the VertNet portal (portal.vertnet.org).
+# uf-birds
+Issue tracking for UF Bird data in the VertNet portal (portal.vertnet.org).
