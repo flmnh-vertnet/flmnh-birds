@@ -1,0 +1,181 @@
+Report for Institution Code UF, Resource flmnh_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 393
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 67
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 9
+	Date: 2016-03-02 ; Times: 9
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-01 ; Times: 14
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 12
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 9
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 11
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "Pygoscelis papua (tarsus)" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "order:primates locality:PUERTO MALDONADO country:&#34;peru&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "type:specimen specificepithet:monachus genus:Myiopsitta (clutch OR egg OR eggs)" ; Times: 3
+	Query: "Pyrrhura griseipectus" ; Times: 1
+	Query: "(pipiens) media:1" ; Times: 3
+	Query: "11054" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 3
+	Query: "Diglossa plumbea" ; Times: 1
+	Query: "Thamnophilus melanonotus" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "diglossa sittoides" ; Times: 2
+	Query: "veery" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "northern bobwhite" ; Times: 2
+	Query: "killdeer" ; Times: 2
+	Query: "petechia cuba" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "pycnonotus cafer calicut" ; Times: 1
+	Query: "Black jacana" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "Pandion haliaetus ridgwayi type:specimen" ; Times: 1
+	Query: "Crotophaga major (bill)" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "tiaris obscura" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "crypturellus tataupa" ; Times: 1
+	Query: "petechia country:&#34;cuba&#34;" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 2
+	Query: "tufted titmouse" ; Times: 1
+	Query: "Gray treefrog" ; Times: 2
+	Query: "Pygoscelis antarcticus (toe)" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:heilprini genus:cyanocorax" ; Times: 1
+	Query: "Costa Rican birds" ; Times: 3
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "alouatta fusca" ; Times: 2
+	Query: "Pseudacris crucifer media:1" ; Times: 1
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen genus:Cacatua order:Psittaciformes country:&#34;Papua New Guinea&#34; (galerita)" ; Times: 1
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "tyto alba india" ; Times: 1
+	Query: "artisornis metopias" ; Times: 3
+	Query: "Falco columbarius (TARSUS)" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "hermit thrush" ; Times: 2
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "pb 196" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "diglossa baritula" ; Times: 1
+	Query: "vermilion flycatcher" ; Times: 3
+	Query: "Pachyramphus albogriseus tissue:1" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "Gray treefrog media:1" ; Times: 1
+	Query: "PB 47" ; Times: 1
+	Query: "Northern bobwhite" ; Times: 3
+	Query: "Oriolus xanthornus" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "prinia hodgsonii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 5213
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 9
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
