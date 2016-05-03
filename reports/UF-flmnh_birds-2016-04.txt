@@ -1,0 +1,494 @@
+Report for Institution Code UF, Resource flmnh_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 518
+Number of records retrieved in searches: 2228
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 48
+	Country: Canada ; Times: 107
+	Country: Russia ; Times: 18
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 19
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 41
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 232
+	Country: Montenegro ; Times: 4
+	Country: Germany ; Times: 12
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 13
+	Country: Denmark ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 12
+	Date: 2016-04-02 ; Times: 3
+	Date: 2016-04-07 ; Times: 12
+	Date: 2016-04-06 ; Times: 12
+	Date: 2016-04-05 ; Times: 32
+	Date: 2016-04-04 ; Times: 9
+	Date: 2016-04-21 ; Times: 10
+	Date: 2016-04-20 ; Times: 17
+	Date: 2016-04-23 ; Times: 10
+	Date: 2016-04-08 ; Times: 9
+	Date: 2016-04-25 ; Times: 11
+	Date: 2016-04-24 ; Times: 16
+	Date: 2016-04-09 ; Times: 41
+	Date: 2016-04-26 ; Times: 21
+	Date: 2016-04-22 ; Times: 14
+	Date: 2016-04-27 ; Times: 31
+	Date: 2016-04-18 ; Times: 8
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 27
+	Date: 2016-04-15 ; Times: 16
+	Date: 2016-04-16 ; Times: 6
+	Date: 2016-04-17 ; Times: 15
+	Date: 2016-04-10 ; Times: 12
+	Date: 2016-04-11 ; Times: 40
+	Date: 2016-04-12 ; Times: 28
+	Date: 2016-04-13 ; Times: 85
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 3
+	Query: "Lanius ludovicianus migrans Ontario" ; Times: 10
+	Query: "(reddington)" ; Times: 1
+	Query: "Chloropsis cochinchinensis Chiang Mai" ; Times: 2
+	Query: "distance(location,geopoint(25.519036,-108.087516))&lt;15000" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "birds brazil" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "sclerurus scansor" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "sitta canadensis Mexico AND (new )" ; Times: 1
+	Query: "Zaratornis stresemanni" ; Times: 1
+	Query: "Graham pectoralis" ; Times: 1
+	Query: "sea lemon" ; Times: 1
+	Query: "crotalus atrox media:1" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "magnolia warbler newfoundland" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "hoplobatrachus tigerinus" ; Times: 1
+	Query: "28423" ; Times: 2
+	Query: "Ixobrychus exilis Ontario" ; Times: 10
+	Query: "megalura" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "zaratornis" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "Aimophila stolzmanni" ; Times: 1
+	Query: "birds from Montenegro" ; Times: 1
+	Query: "pyrrhura molinae" ; Times: 2
+	Query: "conopophaga lineata" ; Times: 2
+	Query: "Colinus virginianus insignis type:specimen" ; Times: 1
+	Query: "skin type:specimen specificepithet:dominicensis genus:Spindalis sex:male" ; Times: 1
+	Query: "tom webber" ; Times: 2
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "turdus unicolor india" ; Times: 1
+	Query: "Pantherophis guttatus tissue:1" ; Times: 1
+	Query: "Incaspiza laeta" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "Anacapa AND Egg" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 2
+	Query: "Monkey media:1" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "santa barbara county eagle" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "Minnesota Point" ; Times: 2
+	Query: "24268" ; Times: 2
+	Query: "Rhynchospiza stolzmanni" ; Times: 1
+	Query: "Anacapa AND Egg NOT 1988" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "edwin willis brazil media:1" ; Times: 1
+	Query: "tanager" ; Times: 1
+	Query: "specificepithet:tigrina genus:dendroica month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "Agelaius phoeniceus Florida orange County" ; Times: 1
+	Query: "scytalopus vicinior stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "strix virgata" ; Times: 2
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND ISland" ; Times: 1
+	Query: "euscarthmus meloryphus" ; Times: 7
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:crypturellus tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "skin type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 2
+	Query: "Crypturellus undulatus undulatus" ; Times: 1
+	Query: "Leptasthenura xenothorax" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 2
+	Query: "specificepithet:novaeguineae genus:Crocodylus" ; Times: 3
+	Query: "aburria aburri" ; Times: 9
+	Query: "longirostris year &gt;= 2010 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "trogon collaris" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND Island" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Zimmerius viridiflavus" ; Times: 1
+	Query: "Melanerpes erythrocephalus Ontario" ; Times: 10
+	Query: "Cranioleuca albicapilla" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 3
+	Query: "broad winged hawk" ; Times: 1
+	Query: "Myiarchus semirufus" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 2
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "pterodroma hypoleuca tissue:1" ; Times: 2
+	Query: "Thamnophilus melanothorax" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Brevard County" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "Rissa tridactyla tissue:1" ; Times: 1
+	Query: "sarkidiornis skeleton" ; Times: 5
+	Query: "specificepithet:crucifer county:&#34;Winston&#34;" ; Times: 2
+	Query: "gallinula chloropus skeleton africa" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "nesasio solomonensis" ; Times: 1
+	Query: "Megascops nudipes" ; Times: 1
+	Query: "Coccothraustes minnesota" ; Times: 1
+	Query: "Crax rubra" ; Times: 4
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 2
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "	Aratinga cactorum	 1" ; Times: 1
+	Query: "sturnus contra india" ; Times: 1
+	Query: "Callithricidae" ; Times: 1
+	Query: "Incaspiza pulchra" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "black-headed siskin" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "genus:Scytalopus locality:San Antonio country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1911" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "phylloscartes eximius" ; Times: 1
+	Query: "Incaspiza ortizi" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "Silverstoneia" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 10
+	Query: "sarkidiornis" ; Times: 1
+	Query: "pulsatrix koeniswaldiana" ; Times: 3
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 2
+	Query: "pteroglossus inscriptus" ; Times: 2
+	Query: "type:specimen specificepithet:castanea genus:Setophaga tissue:1" ; Times: 1
+	Query: "Irena puella tissue:1" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "american bittern" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "pteroglossus aracari type:specimen" ; Times: 2
+	Query: "haliaeetus (africa skeleton)" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 6
+	Query: "Minatitlan -Colima" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "Incaspiza watkinsi" ; Times: 1
+	Query: "Phacellodomus dorsalis" ; Times: 1
+	Query: "whet owl" ; Times: 1
+	Query: "Asthenes ottonis" ; Times: 1
+	Query: "MacFarlane year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "Appleton AND Prince" ; Times: 2
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "Leptopogon taczanowskii" ; Times: 1
+	Query: "class:Mammalia institutioncode:UF" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "gallinula angulata skeleton africa" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.407516))&lt;15000" ; Times: 1
+	Query: "mimus saturninus" ; Times: 1
+	Query: "gbifdatasetid:temp-flmnh-birds-datasetid" ; Times: 2
+	Query: "tachybaptus (africa skeleton)" ; Times: 1
+	Query: "phalacrocorax africanus (africa skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.237516))&lt;15000" ; Times: 1
+	Query: "poecilotriccus calopterus" ; Times: 1
+	Query: "MacFarlane June year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "Synallaxis courseni" ; Times: 1
+	Query: "Anacapa AND Egg NOT 1988 NOT 1974" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "toucan" ; Times: 2
+	Query: "dendrexetastes" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 2
+	Query: "pyrrhops year &lt;= 1860" ; Times: 1
+	Query: "Chaetura pelagica Ontario" ; Times: 10
+	Query: "skin specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 4
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.809036,-107.407516))&lt;15000" ; Times: 1
+	Query: "nettapus skeleton" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;virginia&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "edwin willis media:1" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "megalaima haemacephala india" ; Times: 2
+	Query: "ramphocinclus" ; Times: 2
+	Query: "golden crowned kinglet" ; Times: 1
+	Query: "Calliope pectoralis" ; Times: 1
+	Query: "todiramphus ruficollaris" ; Times: 1
+	Query: "myiarchus tuberculifer" ; Times: 3
+	Query: "scytalopus stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 3
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "birds from Europe" ; Times: 2
+	Query: "38875" ; Times: 2
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "MacFarlane year &gt;= 1860 year &lt;= 1865" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "Copsychus malabaricus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "tachybaptus (africa)" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "CICCABA ALBITARSUS" ; Times: 7
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "type:specimen specificepithet:striata genus:Setophaga month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "schiffornis virescens" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "type:specimen specificepithet:stolzmanni genus:Tachycineta" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "subvinacea stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "myrmeciza longipes type:specimen sex:female" ; Times: 1
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "Howell AND 1910" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "egretta caerulea" ; Times: 1
+	Query: "lithobates okaloosae" ; Times: 2
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "Myiornis auricularis" ; Times: 1
+	Query: "Seicercus burkii" ; Times: 2
+	Query: "phoenicoparrus" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 2
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "Anacapa AND Bird AND 1932" ; Times: 2
+	Query: "Anacapa AND Bird AND 1911" ; Times: 2
+	Query: "podargus ocellatus" ; Times: 1
+	Query: "phalacrocorax carbo (africa skeleton)" ; Times: 1
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta" ; Times: 2
+	Query: "specificepithet:eximius genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "strigiceps" ; Times: 1
+	Query: "urocolius indicus" ; Times: 1
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 4
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Rhipidura albogularis" ; Times: 1
+	Query: "Pharomachrus pavoninus Brazil" ; Times: 1
+	Query: "cyornis concretus" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "Puffinus pacificus tissue:1" ; Times: 1
+	Query: "haematotis year &lt;= 1860" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "specificepithet:eximius genus:phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "fregata aquila" ; Times: 1
+	Query: "Rowley AND Santa Cruz Island" ; Times: 2
+	Query: "magnolia newfoundland" ; Times: 2
+	Query: "ornithion inerme" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 2
+	Query: "melidora" ; Times: 1
+	Query: "pycnonotus leucogenys india" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1932" ; Times: 2
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 1 month &lt;= 3" ; Times: 3
+	Query: "specificepithet:tigrina genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "FLMNH 47539" ; Times: 1
+	Query: "FLMNH 47538" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 1312 download events in this period)
+Total number of records downloaded: 2333
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 4
+	Country: United States ; Times: 73
+	Country: Colombia ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 9
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-27 ; Times: 15
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 5
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "Rhynchospiza stolzmanni" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "specificepithet:tigrina genus:dendroica month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "strigiceps" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "Aimophila stolzmanni" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "Poospiza nigrorufa" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 3
+	Query: "specificepithet:tigrina genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+
+
+End of report.
