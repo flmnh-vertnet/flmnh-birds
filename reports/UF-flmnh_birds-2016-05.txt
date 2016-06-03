@@ -1,0 +1,236 @@
+Report for Institution Code UF, Resource flmnh_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 907
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 16
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 3
+	Country: Japan ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 77
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Thailand ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 5
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-17 ; Times: 9
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 14
+	Date: 2016-05-12 ; Times: 21
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 8
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 5
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-07 ; Times: 6
+	Date: 2016-05-26 ; Times: 25
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 4
+	Date: 2016-05-25 ; Times: 6
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 7
+	Date: 2016-05-21 ; Times: 7
+	Date: 2016-05-28 ; Times: 3
+	Date: 2016-05-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Campethera nubica pallida" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "otus mentawi" ; Times: 1
+	Query: "institutioncode:UF" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "specificepithet:Virgatipes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "aves Polioptila nigriceps United States Arizona" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "Illadopsis" ; Times: 1
+	Query: "francolinus pintadeanus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "warbler colorado usa" ; Times: 1
+	Query: "Dendrocygna minnesota" ; Times: 2
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "UF Birds 51144 institutioncode:UF tissue:1" ; Times: 1
+	Query: "UF Birds 50901 year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "myzomela rubrata" ; Times: 1
+	Query: "Prinia polychroa Thailand" ; Times: 2
+	Query: "Crotalus stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "aramus guarauna" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "aves Polioptila nigriceps UF 11843" ; Times: 1
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "recordings" ; Times: 1
+	Query: "batrachostomus poliolophus" ; Times: 2
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "yellow bellied warbler" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "euscarthmus meloryphus country:&#34;colombia&#34;" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 2
+	Query: "black rail" ; Times: 1
+	Query: "UF 23945" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 3
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "genus:phylloscartes country:&#34;brazil&#34;" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 2
+	Query: "elf" ; Times: 6
+	Query: "otus brookii" ; Times: 2
+	Query: "Corvus africa skeleton" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Kenopia" ; Times: 1
+	Query: "specificepithet:virgata genus:Ciccaba country:&#34;Colombia&#34;" ; Times: 1
+	Query: "flmnh francolinus" ; Times: 1
+	Query: "cistothorus platensis (audio)" ; Times: 3
+	Query: "Callipepla squamata" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "Podiceps auritus AND Santa Rosa" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "cistothorus platensis institutioncode:UF" ; Times: 1
+	Query: "Uf birds francolinus" ; Times: 1
+	Query: "UF Birds 50818" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "UF Birds 50814" ; Times: 1
+	Query: "Prince Island AND Appleton" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "anhima cornuta" ; Times: 4
+	Query: "aves Polioptila nigriceps 11914" ; Times: 1
+	Query: "anser" ; Times: 1
+	Query: "order:anura media:1" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:oustaleti genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "saw whet owl" ; Times: 1
+	Query: "Picus chlorolophus" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "CROCODYLUS MORELETII" ; Times: 3
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "ara militaris" ; Times: 2
+	Query: "Taiwan Partridge" ; Times: 2
+	Query: "104182" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 327 download events in this period)
+Total number of records downloaded: 1089
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "cistothorus platensis institutioncode:UF" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "cistothorus platensis (audio)" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(15.07212354581167,93.5595703125))&lt;937819.0681547445" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+
+
+End of report.
