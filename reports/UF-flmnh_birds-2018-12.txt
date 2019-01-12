@@ -1,0 +1,469 @@
+Report for Institution Code UF, Resource flmnh_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 501
+Number of records retrieved in searches: 5036
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Turkey ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 20
+	Country: Peru ; Times: 15
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 8
+	Country: Australia ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Thailand ; Times: 4
+	Country: Spain ; Times: 14
+	Country: Philippines ; Times: 4
+	Country: Finland ; Times: 26
+	Country: United States ; Times: 269
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 18
+	Country: United Kingdom ; Times: 60
+	Country: Colombia ; Times: 4
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 10
+	Date: 2018-12-09 ; Times: 33
+	Date: 2018-12-06 ; Times: 23
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 19
+	Date: 2018-12-31 ; Times: 10
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-15 ; Times: 3
+	Date: 2018-12-14 ; Times: 13
+	Date: 2018-12-17 ; Times: 19
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-10 ; Times: 18
+	Date: 2018-12-13 ; Times: 14
+	Date: 2018-12-12 ; Times: 9
+	Date: 2018-12-20 ; Times: 22
+	Date: 2018-12-21 ; Times: 21
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 11
+	Date: 2018-12-24 ; Times: 8
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-26 ; Times: 70
+	Date: 2018-12-27 ; Times: 10
+	Date: 2018-12-28 ; Times: 44
+	Date: 2018-12-29 ; Times: 8
+	Date: 2018-12-04 ; Times: 10
+	Date: 2018-12-05 ; Times: 44
+	Date: 2018-12-02 ; Times: 8
+	Date: 2018-12-03 ; Times: 10
+	Date: 2018-12-01 ; Times: 20
+	Date: 2018-12-07 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhacophorus bimaculatus" ; Times: 1
+	Query: "catalognumber:18027 institutioncode:UF" ; Times: 3
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 11
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;virginia&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Eos squamata" ; Times: 2
+	Query: "rhacophorus bimaculatus" ; Times: 1
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aves kirtlandi" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Cicinnurus USNM" ; Times: 1
+	Query: "family:Camelidae hasmedia:1" ; Times: 4
+	Query: "megascops hoyi" ; Times: 2
+	Query: "Carduelis chloris eggs" ; Times: 1
+	Query: "class:Aves country:&#34;Trinidad and Tobago&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 4
+	Query: "institutioncode:UF" ; Times: 1
+	Query: "vntype:specimen preparations:skel institutioncode:UF" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Attila torridus" ; Times: 3
+	Query: "45926" ; Times: 3
+	Query: "class:Aves preparations:skel institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:55633 institutioncode:UF" ; Times: 2
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Calandrella rufescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "ampeliceps hastissue:1" ; Times: 1
+	Query: "UF AVES SKELS" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "UF SKELS" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Alabama&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "39747" ; Times: 1
+	Query: "great frigatebird" ; Times: 1
+	Query: "Ptiloris paradiseus USNM" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "catalognumber:14779 institutioncode:UF" ; Times: 4
+	Query: "mino hastissue:1" ; Times: 2
+	Query: "country:&#34;Mexico&#34; (grus canadensis)" ; Times: 1
+	Query: "Pyrrhura hoffmanni" ; Times: 1
+	Query: "specificepithet:griseus genus:Thryothorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cyornis rubeculoides Thailand" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "class:Aves country:&#34;mexico&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Accipiter superciliosus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;North Carolina&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Aves country:&#34;belize&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "class:Aves country:&#34;Nicaragua&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "synallaxis courseni" ; Times: 4
+	Query: "otus sunia" ; Times: 3
+	Query: "class:Aves country:&#34;saint&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis year &gt;= 1909 year &lt;= 1909 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "class:Aves country:&#34;puerto rico&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nesofregetta vntype:specimen" ; Times: 4
+	Query: "Aplonis opaca" ; Times: 2
+	Query: "class:Aves country:&#34;venezuela&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "Rubber tree" ; Times: 1
+	Query: "specificepithet:ornata genus:pseudacris stateprovince:&#34;florida&#34; year &gt;= 1975" ; Times: 1
+	Query: "Corvus kubaryi" ; Times: 36
+	Query: "amazona festiva" ; Times: 1
+	Query: "class:Aves country:&#34;bermuda&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pyrrhodes genus:Philydor" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "accipiter superciliosus" ; Times: 5
+	Query: "skel specificepithet:unappendiculatus genus:Casuarius" ; Times: 1
+	Query: "genus:phoenicopterus institutioncode:UF" ; Times: 2
+	Query: "basilornis hastissue:1" ; Times: 2
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "cephalopod" ; Times: 1
+	Query: "Paradisaea apoda USNM" ; Times: 1
+	Query: "specificepithet:ferrocyanea genus:myiagra mappable:1 country:solomon islands" ; Times: 3
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "phodilus badius" ; Times: 2
+	Query: "class:Aves country:&#34;guatemala&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:burtch" ; Times: 1
+	Query: "genus:funambulus hasmedia:1" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "catalognumber:748 institutioncode:UF" ; Times: 2
+	Query: "Accipiter superciliosus" ; Times: 20
+	Query: "catalognumber:7168 institutioncode:UF" ; Times: 2
+	Query: "aplonis opaca opaca" ; Times: 3
+	Query: "bicolored hawk" ; Times: 1
+	Query: "Torgos" ; Times: 1
+	Query: "eubucco bourcierii" ; Times: 2
+	Query: "specificepithet:ustulatus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "agelaius san francisco" ; Times: 1
+	Query: "California spotted owl" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "tokay gecko" ; Times: 2
+	Query: "specificepithet:glaucocaerulea genus:Cyanoloxia" ; Times: 1
+	Query: "Crax alberti" ; Times: 1
+	Query: "psephotus pulcherrimus" ; Times: 2
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(-8.168,159.546))&lt;10000" ; Times: 2
+	Query: "common gallinule" ; Times: 2
+	Query: "Ara tricolor" ; Times: 1
+	Query: "catalognumber:6894 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:7502 institutioncode:UF" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;kentucky&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor relicta genus:Amaurospiza" ; Times: 1
+	Query: "class:Aves country:&#34;Panama&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "catalognumber:94634 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:10067 institutioncode:UF" ; Times: 2
+	Query: "family:camelidae hasmedia:1" ; Times: 3
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "ara tricolor" ; Times: 2
+	Query: "Trichoglossus flavoviridis" ; Times: 8
+	Query: "Cyornis rubeculoides" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;st. thomas&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "aceros waldeni" ; Times: 2
+	Query: "37809" ; Times: 1
+	Query: "clapper rail" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves preparations:skeleton (skeleton or skel) institutioncode:UF" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 4
+	Query: "red-bellied woodpeckers" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 4
+	Query: "class:Aves preparations:skel* institutioncode:UF" ; Times: 1
+	Query: "specificepithet:niger genus:cypseloides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "north midden uf" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;Virginia&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 2
+	Query: "Turdoides affinis" ; Times: 22
+	Query: "aplonis grandis" ; Times: 2
+	Query: "Tinamus osgoodi" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "aimophila duponti" ; Times: 1
+	Query: "catalognumber:35255 institutioncode:UF" ; Times: 2
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "specificepithet:superciliosus genus:accipiter country:&#34;brazil&#34;" ; Times: 1
+	Query: "colaptes brunnescens" ; Times: 1
+	Query: "SKEL vntype:specimen institutioncode:UF" ; Times: 2
+	Query: "gbifdatasetid:temp-flmnh-birds-datasetid" ; Times: 7
+	Query: "ampeliceps" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aardvark" ; Times: 3
+	Query: "Pingree Osburn" ; Times: 3
+	Query: "class:Aves country:&#34;Aruba&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 2
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "myiagra caledonica caledonica" ; Times: 1
+	Query: "Aplonis grandis grandis" ; Times: 1
+	Query: "Ptiloris victoriae USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 3
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "class:Aves country:&#34;Saint Lucia&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2655 institutioncode:UF" ; Times: 2
+	Query: "class:AVES (SKEL) institutioncode:UF" ; Times: 1
+	Query: "catalognumber:12703 institutioncode:UF" ; Times: 1
+	Query: "MEGASCOPS ALBOGULARIS" ; Times: 2
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "catalognumber:15251 institutioncode:UF" ; Times: 1
+	Query: "Paradisaea raggiana USNM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;florida&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skel specificepithet:perdicaria genus:Nothoprocta" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "Haliaeetus leucocephalus 100" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;costa rica&#34;" ; Times: 3
+	Query: "glaucidium cuculoides" ; Times: 3
+	Query: "nyctibius jamaicensis" ; Times: 1
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "north midden florida" ; Times: 2
+	Query: "amphispiza cinerea" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Alabama&#34; preparations:skel institutioncode:UF" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Georgia&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1525 institutioncode:UF" ; Times: 3
+	Query: "dendrocincla obidensis" ; Times: 1
+	Query: "Iceland Gull" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1947 year &lt;= 1947" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "class:Aves preparations:skel institutioncode:UF" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Dumetella year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "class:Aves country:&#34;cayman islands&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5805 institutioncode:UF" ; Times: 3
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "specificepithet:ALBOGULARIS genus:MEGASCOPS country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "megalaima asiatica" ; Times: 4
+	Query: "Drepanornis USNM" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "Primolius maracana" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UF" ; Times: 1
+	Query: "catalognumber:21957 institutioncode:UF" ; Times: 2
+	Query: "carolina parakeet" ; Times: 2
+	Query: "skel specificepithet:camelus genus:Struthio" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;guatemala&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;costa rica&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "california spotted owl" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 26
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "catalognumber:21958 institutioncode:UF" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "Aglaeactis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:32509 institutioncode:UF" ; Times: 2
+	Query: "class:Aves country:&#34;colombia&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Acanthidops" ; Times: 2
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brazil&#34; institutioncode:UF" ; Times: 1
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Accipiter gentilis eggs" ; Times: 2
+	Query: "class:Aves country:&#34;Saint Vincent&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gubernatrix" ; Times: 1
+	Query: "Synallaxis tithys" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 5
+	Query: "class:Aves country:&#34;Russia&#34; recordedby:Stejneger" ; Times: 2
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "(poecile montanus)" ; Times: 1
+	Query: "catalognumber:7860 institutioncode:UF" ; Times: 2
+	Query: "45407" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;turks&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:16509 institutioncode:UF" ; Times: 3
+	Query: "class:Aves country:&#34;honduras&#34; preparations:skeleton institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14749 institutioncode:UF" ; Times: 2
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 4
+	Query: "Anodorhynchus hyacinthinus" ; Times: 10
+	Query: "rancho peñitas" ; Times: 2
+	Query: "class:Aves preparations:skeleton institutioncode:UF" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 809 download events in this period)
+Total number of records downloaded: 29602
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 25
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 10
+	Date: 2018-12-31 ; Times: 11
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 14
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 6
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-21 ; Times: 5
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-23 ; Times: 5
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "rhacophorus bimaculatus" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "megascops hoyi" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1845 year &lt;= 1950" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "genus:Acanthidops" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "Corvus kubaryi" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "phodilus badius" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:glaucocaerulea genus:Cyanoloxia" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "specificepithet:concolor relicta genus:Amaurospiza" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "chloropipo" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:ALBOGULARIS genus:MEGASCOPS country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 2
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "specificepithet:carmioli carmioli genus:Chlorothraupis" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "ecuador aves" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "class:Aves preparations:skeleton institutioncode:UF" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "order:Testudines institutioncode:UF" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "Synallaxis tithys" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "vietnam" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 1
+
+
+End of report.
