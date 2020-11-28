@@ -1,0 +1,398 @@
+Report for Institution Code UF, Resource flmnh_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 385
+Number of records retrieved in searches: 2794
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 5
+	Country: Madagascar ; Times: 3
+	Country: Peru ; Times: 31
+	Country: Unknown ; Times: 30
+	Country: Costa Rica ; Times: 9
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 7
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 4
+	Country: Finland ; Times: 4
+	Country: United States ; Times: 169
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 29
+	Country: India ; Times: 16
+	Country: United Kingdom ; Times: 19
+	Country: Malaysia ; Times: 6
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 7
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 36
+	Date: 2020-07-27 ; Times: 16
+	Date: 2020-07-26 ; Times: 9
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-22 ; Times: 22
+	Date: 2020-07-01 ; Times: 9
+	Date: 2020-07-03 ; Times: 14
+	Date: 2020-07-02 ; Times: 19
+	Date: 2020-07-05 ; Times: 7
+	Date: 2020-07-04 ; Times: 9
+	Date: 2020-07-07 ; Times: 11
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-23 ; Times: 12
+	Date: 2020-07-29 ; Times: 28
+	Date: 2020-07-18 ; Times: 8
+	Date: 2020-07-19 ; Times: 8
+	Date: 2020-07-13 ; Times: 7
+	Date: 2020-07-10 ; Times: 11
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 13
+	Date: 2020-07-31 ; Times: 43
+	Date: 2020-07-14 ; Times: 24
+	Date: 2020-07-17 ; Times: 12
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 9
+	Date: 2020-07-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "58955" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Venezuela&#34; institutioncode:UF" ; Times: 1
+	Query: "UF birds 3660" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "aegithina nigrolutea" ; Times: 1
+	Query: "Timalia pileata" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 15
+	Query: "american bullfrog" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "institutioncode:UF" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Attila torridus" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Androdon" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "catalognumber:19094 institutioncode:UF" ; Times: 2
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "Ratufa bicolor" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Golden babbler" ; Times: 3
+	Query: "genus:hypocryptadius country:&#34;philippines&#34;" ; Times: 1
+	Query: "tachycineta meyeni" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "UF 3360" ; Times: 1
+	Query: "genus:machetornis" ; Times: 2
+	Query: "HIRUNDAPUS CELEBENSIS" ; Times: 1
+	Query: "ANSP 5548" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "mecistops" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "ANSP 5548 aves" ; Times: 2
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "Onychorhynchus coronatus occidentalis" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus ruficollaris" ; Times: 1
+	Query: "nothoprocta pentlandii" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 5
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "elminia nigromitrata" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "Todiramphus OR Halcyon OR Todirhamphus Rennell" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 2
+	Query: "specificepithet:cucullatus country:&#34;philippines&#34;" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "Randia pseudozosterops" ; Times: 3
+	Query: "aerodramus mearnsi" ; Times: 3
+	Query: "specificepithet:ruber genus:phoenicopterus institutioncode:UF" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 4
+	Query: "Halcyon OR Todiramphus OR Todirhampus Rennell" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 3
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 4
+	Query: "Crocodylus acutus 2015" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 2
+	Query: "Eggs specificepithet:virginianus genus:Colinus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "peafowl" ; Times: 3
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:UF" ; Times: 9
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "zabele" ; Times: 1
+	Query: "order:Galliformes stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "Crocodylus acutus 1975" ; Times: 2
+	Query: "Crocodylus acutus 1974" ; Times: 2
+	Query: "56042" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps preparations:eggs" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "specificepithet:anthonyi genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "Rattus losea" ; Times: 3
+	Query: "Tamuin San Luis Potosi" ; Times: 1
+	Query: "campephilus principalis" ; Times: 19
+	Query: "Mark hazel" ; Times: 6
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Crypturellus strigulosus" ; Times: 1
+	Query: "Saxicola vntype:specimen institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "mangrove finch" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;Trinidad and Tobago&#34; institutioncode:UF" ; Times: 2
+	Query: "specificepithet:bicolor genus:dicaeum country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 2
+	Query: "Macroagelaius" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "Megapodius vntype:specimen institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 4
+	Query: "Xenoglaux loweryi" ; Times: 2
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "crypturellus poliocephalus" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 8
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 2
+	Query: "green cochoa" ; Times: 2
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "Sturnus vulgaris india" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus institutioncode:UF" ; Times: 1
+	Query: "Contopus virens Peru" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Progne tapera" ; Times: 1
+	Query: "specificepithet:auratus genus:Colaptes year &gt;= 2011 year &lt;= 2011 institutioncode:UF" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "UF birds 3360" ; Times: 1
+	Query: "gbifdatasetid:temp-flmnh-birds-datasetid" ; Times: 2
+	Query: "Psittacus erithacus timneh" ; Times: 1
+	Query: "class:Aves country:&#34;Venezuela&#34; institutioncode:UF" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "persea" ; Times: 1
+	Query: "Peru Tavara" ; Times: 3
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "Rio Tavara" ; Times: 2
+	Query: "tavara" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "Touit costaricensis" ; Times: 9
+	Query: "Megascops atricapilla" ; Times: 5
+	Query: "88053" ; Times: 1
+	Query: "catalognumber:57116 institutioncode:UF" ; Times: 1
+	Query: "Leucophaeus fuliginosus" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "catalognumber:49406 institutioncode:UF" ; Times: 4
+	Query: "genus:Silverstoneia specificepithet:nubicola" ; Times: 1
+	Query: "catalognumber:45387 institutioncode:UF" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+	Query: "county:&#34;District&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Aerodramus mearnsi" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "aves spleen" ; Times: 1
+	Query: "hypocnemis peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "specificepithet:heilprini hasmedia:1" ; Times: 4
+	Query: "specificepithet:clarae genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "rattus losea" ; Times: 2
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Todiramphus farquhari" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;nayarit&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Megazosterops" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "Colombia Bonda" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "pitta anerythra" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "Sterna repressa" ; Times: 3
+	Query: "specificepithet:niger order:galliformes" ; Times: 2
+	Query: "Thalasseus acuflavidus" ; Times: 4
+	Query: "46505" ; Times: 1
+	Query: "Campylorhynchus fasciatus hastissue:1" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "Ichthyaetus relictus" ; Times: 4
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "meadowlarks" ; Times: 1
+	Query: "Contopus virens Ecuador" ; Times: 1
+	Query: "UF 3660" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "Acacia senegal" ; Times: 1
+	Query: "hirundapus celebensis" ; Times: 2
+	Query: "41449" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 5
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "Panama Rio azul" ; Times: 1
+	Query: "Rhacophorus nigropalmatus" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "Ichthyaetus leucophthalmus" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Erythrocebus" ; Times: 3
+	Query: "87481" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 940 download events in this period)
+Total number of records downloaded: 2884
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Philippines ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 5
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 5
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Xenoglaux loweryi" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Surigao (Birds)" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:UF" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "heilprini" ; Times: 1
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "RABOR YPM" ; Times: 2
+	Query: "Tangara guttata" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "family:felidae" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:niger order:galliformes" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+
+
+End of report.
